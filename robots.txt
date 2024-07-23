@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sieution.github.io/sitemap
+Sitemap: https://sieution.github.io/app/sitemap
+Sitemap: https://sieution.github.io/assets/sitemap
+Sitemap: https://sieution.github.io/css/sitemap
+Sitemap: https://sieution.github.io/includes/sitemap
+Sitemap: https://sieution.github.io/item/sitemap
+Sitemap: https://sieution.github.io/src/sitemap
